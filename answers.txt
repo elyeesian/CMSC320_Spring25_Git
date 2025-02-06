@@ -5,3 +5,9 @@ Answer: To keep track of the versions of an app, so we may easily revert to a pr
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to the medical research field to visualize and interpret the result of an experiment, informing the creation of new medicines and vaccines.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Your answer here]
+
