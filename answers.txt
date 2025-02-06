@@ -9,7 +9,7 @@ Answer: Data science could be applied to the medical research field to visualize
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: [Your answer here]
+Answer: Unlike merging, rebasing re-writes the branch history entirely, so there is no record of the changes being pulled in. It doesn't have merge commits.
 
 
 Q4: What are you looking forward to this semester?
