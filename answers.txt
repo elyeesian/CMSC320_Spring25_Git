@@ -11,3 +11,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: [Your answer here]
 
+
+Q4: What are you looking forward to this semester?
+
+Answer: Working with Pandas and Git, and passing!
